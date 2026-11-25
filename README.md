@@ -2,6 +2,10 @@
 
 A lightweight Windows 11 app for changing the look of your taskbar. It runs in the system tray and applies your chosen appearance to every display. Tested on Windows 11 26H2 x64, build **26300.10075**. Compatibility may vary across Windows builds.
 
+## Screenshots
+
+![Hide Your Taskbar preview](hide-your-taskbar-promo-v2.png)
+
 ## Download and run
 
 The portable release runs without Visual Studio, C++ build tools, the Windows SDK, or the Visual C++ Redistributable.
