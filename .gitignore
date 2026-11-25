@@ -1,0 +1,24 @@
+# Local builds and release packages
+/build/
+/build-*/
+/release/
+/release-*/
+/dist/
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.res
+*.zip
+
+# Local editor settings
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Local diagnostic tools
+/tools/diagnostics/
