@@ -5,3 +5,4 @@
 - Keep each pull request focused on one change. Explain what changed and how you tested it.
 - When changing the interface or taskbar styling, open and close Settings, switch appearance modes, and verify that **Exit** restores the previous taskbar appearance.
 - Keep discussions respectful and leave personal details and full system logs out of public reports.
+- -If you run into a bug, [open an issue](https://github.com/Kroxy0/hide-your-taskbar/issues/new) and include your Windows build (`Win + R` → `winver`), the appearance mode you selected, and the steps to reproduce it.
